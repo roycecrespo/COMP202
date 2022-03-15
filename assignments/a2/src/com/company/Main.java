@@ -10,7 +10,7 @@ public class Main {
         // TODO: call the method alphaString that takes s1 and s2 as parameters and print the string the method returns
     }
 
-    // TODO: write in the comments below how you would find the alpha string in steps
+    // TODO: write in the comments below how you would find the alpha string without using code in steps
     /** finding the alpha string
      * step 1: ...
      * step 2: ...
