@@ -35,7 +35,7 @@ public class Main {
         String s2 = "apple";
         System.out.println("The input strings are :" + s1 + " and " + s2);
         System.out.println("The alpha string is: ");
-
+//hello
         // TODO: call the method alphaString that takes s1 and s2 as parameters and print the string the method returns
     }
 
