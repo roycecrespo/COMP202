@@ -25,6 +25,7 @@ package com.company;
  * input: "planet", "planetarium"
  * output: "planet"
  *
+ *
  * */
 
 
@@ -40,7 +41,7 @@ public class Main {
     }
 
     // TODO: write in the comments below how you would find the alpha string without using code in steps
-    /** finding the alpha string
+    /** finding the alpha string with example 1
      * step 1: ...
      * step 2: ...
      * ...

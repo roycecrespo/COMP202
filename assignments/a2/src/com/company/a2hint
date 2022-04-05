@@ -1,0 +1,5 @@
+// TODO: write in the comments below how you would find the alpha string without using code in steps
+    step 1: compare the first letter of both s1 and s2
+    step 2: if s1's first letter is before s2's second letter, then return s1
+    step 3: if s2's second letter is before s2's first letter, then return s2
+    step 4: if they're the same letter repeat step 1 with the next letter
